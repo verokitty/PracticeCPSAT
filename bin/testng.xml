@@ -1,0 +1,13 @@
+<!-- <?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="Test">
+    <classes>
+      <class name="srcTestNG.QuestionCPSAT3"/>
+      <class name="srcTestNG.QuestionCPSAT4"/>
+      <class name="srcTestNG.QuestionCPSAT5"/>
+      <class name="srcTestNG.QuestionCPSAT6"/>
+      
+    </classes>
+  </test> Test
+</suite> Suite
+ -->
